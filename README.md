@@ -1,7 +1,7 @@
 
 
 # Operation Kujari Stabilisation - Part 2 (Action Hope Prevail)
-![Construction of PB Platypus](Documentation/Screenshots/20221116223511_1.jpg?raw=true "Title")
+![Construction of PB Platypus](Documentation/Screenshots/20221116223511_1.jpg?raw=true "Construction of PB Platypus")
 
 
 ## Use
