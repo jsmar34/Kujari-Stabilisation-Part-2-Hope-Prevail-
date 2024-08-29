@@ -1,6 +1,9 @@
 
 
 # Operation Kujari Stabilisation - Part 2 (Action Hunting Dark)
+![Construction of PB Platypus](Documentation/Screenshots/20221116223511_1.jpg?raw=true "Title")
+
+
 ## Use
 To play this mission, simply extract the entire folder named "OP_Kujari_Stabilisation_Part_2_(ANZAC_2023).tem_kujari" into your Arma 3 mpmissions folder.
 
