@@ -20,3 +20,6 @@ Kujari Statbilisation was designed to give a fresh persepective of ADF operation
 ## Supporting Documents
 The Operations OPORD can be found in the Documentation Folder, [or with this link](Documentation/Action-Hope-Prevail-OPORD-Operation-Kujari-Stabilisation.docx)
 The mod list, and screenshots can also be found in this folder. 
+
+## Gameplay
+[Watch Ray's perspective of the operation underway here.](https://youtu.be/tW_Pfva2gls?si=1M26tdkc3l_eflC5)\
