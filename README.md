@@ -22,4 +22,4 @@ The Operations OPORD can be found in the Documentation Folder, [or with this lin
 The mod list, and screenshots can also be found in this folder. 
 
 ## Gameplay
-[Watch Ray's perspective of the operation underway here.](https://youtu.be/tW_Pfva2gls?si=1M26tdkc3l_eflC5)\
+[Watch Ray's perspective of the operation underway here.](https://youtu.be/tW_Pfva2gls?si=1M26tdkc3l_eflC5)
